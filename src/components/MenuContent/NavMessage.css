@@ -1,0 +1,13 @@
+.mnavMessages {
+    font-weight: 400;
+    padding: 7.5px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    background-color: #f9f8f4;
+    border: 1px solid #e7e2d2;
+}
+
+.col-msg-1 {
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}

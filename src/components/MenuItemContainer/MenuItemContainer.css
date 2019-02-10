@@ -1,0 +1,8 @@
+.MenuItemContainer {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: rgb(158, 235, 235); */
+
+    padding-left: 0;
+    padding-right: 0;
+}

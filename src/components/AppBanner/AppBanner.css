@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Stag';
+    src: url('../../components/Layout/fonts/STAG/STAG-BOOK_0.OTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Banner {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+
+.Banner img{
+    width: 100%;
+    height: auto;
+}
+
+.BannerText {
+    font-family: "Stag";
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%,-50%);
+    width: 100%;
+    max-width: 1140px;
+    padding: 64px;
+    position: absolute;
+    margin: 0 0 0;
+}
+
+.BannerText h2 {
+    font-size: 3.5rem;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+
+    font-weight: 400;
+}
